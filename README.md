@@ -1,3 +1,3 @@
 # reinforcement-learning
 
-These are some reinforcement learning projects where I made some AI using Deep RL to beat some video games.
+A collection of different AI models that learned how to play some Atari video games like Pong very well using deep reinforcement learning algorithms.
